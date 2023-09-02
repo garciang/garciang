@@ -13,7 +13,7 @@
 
 # Extra-Curricular Activities
 - National Honor Society (2022 - Present)
-- Italian Honor Society (2023)
+- Italian Honor Society (2022 - Present)
 - Mu Alpha Theta (2022 - Present)
 - Interact Club (2022 - Present)
 
@@ -24,3 +24,6 @@
 # Hobbies
 - Reading
 - Clarinet
+
+
+![monkey-2](https://github.com/garciang/About-Me/assets/143009289/a321ebd0-ebe0-42c1-8a8a-343b78c63909)
