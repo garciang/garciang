@@ -1,4 +1,16 @@
-![Angie Garcia-3](https://github.com/garciang/About-Me/assets/143009289/7421ad12-f2f0-4e0d-b500-ee7432fc233d)
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+</head>
+  <body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+
+</body>
+</html>
 
 # Education
 **Westchester Academy for International Studies**
@@ -24,6 +36,3 @@
 # Hobbies
 - Reading
 - Clarinet
-
-
-![monkey-2](https://github.com/garciang/About-Me/assets/143009289/a321ebd0-ebe0-42c1-8a8a-343b78c63909)
