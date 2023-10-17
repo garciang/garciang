@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My GitHub Pages Site</title>
+    <link href="style.css" rel="stylesheet">
   </head>
   <body>
     <h1>Hello world!</h1>
