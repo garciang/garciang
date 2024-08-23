@@ -2,8 +2,8 @@
 # Education
 **Westchester Academy for International Studies**
 - (2018 - Present)
-- Junior
-- 6.125/6.5 GPA
+- Senior
+- 6.16/6.5 GPA
 
 # Certificates
 - Distinguished Honor Roll (2022 - Present)
@@ -13,13 +13,10 @@
 # Extra-Curricular Activities
 - National Honor Society (2022 - Present)
 - Italian Honor Society (2022 - Present)
-- Mu Alpha Theta (2022 - Present)
 - Interact Club (2022 - Present)
+- TIRR voluntering (present)
 
 # Skills
 - English speaker
 - Spanish speaker
 - 
-# Hobbies
-- Reading
-- Clarinet
