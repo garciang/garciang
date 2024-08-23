@@ -19,4 +19,4 @@
 # Skills
 - English speaker
 - Spanish speaker
-- 
+- Processing
